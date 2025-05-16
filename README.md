@@ -44,8 +44,8 @@ I specialize in building **interactive** and **responsive web interfaces**, expl
 ### 🌟 My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hasanhayat&theme=github_dark&show_icons=true" alt="GitHub Stats" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=hasanhayat&theme=dark&background=000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ayankhurt&theme=github_dark&show_icons=true" alt="GitHub Stats" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Ayankhurtt&theme=dark&background=000000"/>
 <!-- <img src="https://streak-stats.demolab.com?user=hasanhayat&theme=radical" alt="GitHub streak" />-->
 </p>
 
