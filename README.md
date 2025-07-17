@@ -72,9 +72,8 @@ I specialize in building **interactive** and **responsive web interfaces**, expl
 
 ### 📫 How to Reach Me
 
-- **Email:** hassanhayat0012@gmail.com
-- **WhatsApp:** +92 339 5001230
-- **GitHub:** [hasanhayat](https://github.com/hasanhayat)
+- **Email:** ayankhurt@gmail.com
+- **WhatsApp:** +92 3269676564
 
 ---
 
